@@ -1,15 +1,5 @@
 # AI-Powered Phishing Detection and Mitigation 🛡️🚨
- 
-PROJECT WORKING MODEL URL (https://shauryasrivastava-1612.github.io/AI-Powered-Phishing-detection-and-Mitigation/)
 
-YOUTUBE DEMO VIDEO LINK (https://youtu.be/WosAwwGNItA?si=MS5cCMO_fYCItvyQ )
-
-GIT HUB REPOSITORY LINK (https://github.com/shauryasrivastava-1612/AI-Powered-Phishing-detection-and-Mitigation)
-
-
-COLAB LINK (https://colab.research.google.com/drive/1smKi8uIBk4ZeezQe9bWdhXE4ZjiGWuO-#scrollTo=zOAmij2b18VK) ---> **well Documented with each and every steps explained properly.**
-
- 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -127,13 +117,6 @@ pip freeze > requirements.txt
 - **Browser Extensions**: Real-time phishing warnings during browsing sessions.
 - **Mobile App**: A mobile solution for instant phishing detection and threat scanning.
 
-## Contributors
-
-- **Shaurya Srivastava** - Project Lead
-- **Sanchita** - AI/ML Engineer
-- **Samriddhi Srivastava** - Backend Developer
-- **Sakshi** - Frontend Developer
-- **Sarvpreet Kaur** - Security Researcher
 
 ## License
 
